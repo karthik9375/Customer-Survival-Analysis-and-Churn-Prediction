@@ -226,3 +226,9 @@ We can explain and understand the Random forest model using explainable AI modul
 The final tuned Random Forest model is saved and deployed using Flask web app. Flask is a micro web framework written in Python. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. The shap value explainer tuned using random forest model is also saved to show shap plots in the app. The cox-proportional hazard model is also utilized to show survival curve and hazard curve, and to calculate expected customer lifetime value.
 
 The final app shows churning probability, gauge chart of how severe a customer is and shap values based on customer's data. The final app layout can be seen above.
+
+## Contributors
+
+| Name | GitHub |
+|------|--------|
+| Karthik | [@karthik9375](https://github.com/karthik9375) |
